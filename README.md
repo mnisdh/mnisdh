@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Java%20%26%20Spring%20Boot%20Developer&fontSize=50&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=scale&desc=Backend%20Development%20%7C%20Microservices%20%7C%20RESTful%20APIs)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Java%20Developer&fontSize=50&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&animation=scale&desc=Spring%20Boot%20Backend%20Developer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mnisdh&color=brightgreen&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/mnisdh?style=social)
